@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tugas_UAS_AKB_10118330_IF8</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="judul_fragment2">
+        Wilayah Apa saja yang merupakan bagian dari Bandung Raya ?</string>
+    <string name="tvDescSlide3">
+        Aplikasi ini dibuat untuk memenuhi nilai Tugas UAS
+        tentang menampilkan profil tempat wisata di area Bandung Raya.
+        Penasaran ingin melihat aplikasinya seperti apa?
+        Klik tombol AYO MULAI ! dibawah ini sekarang juga </string>
+    <string name="title_activity_maps_wisata1">Map</string>
+    <string name="title_activity_maps_wisata2">Map</string>
+    <string name="title_activity_maps_wisata3">MapsWisata3Activity</string>
+    <string name="title_activity_maps_wisata4">MapsWisata4Activity</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyCiKqVdSdZYg_ZRYfFxmJ1xd7UttZNXa6k
+    </string>
+</resources>
